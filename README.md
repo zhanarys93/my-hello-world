@@ -9,7 +9,7 @@
 git clone https://github.com/zhanarys93/my-hello-world.git
 ```
 
-Для установки приложения нужен Maven. Скачайте Maven и распакуйте, если его у вас нет. 
+Для установки приложения нужен Maven. Скачайте Maven и распакуйте (в Program Files), если его у вас нет. 
 ```shell
 https://maven.apache.org/download.cgi
 ```
