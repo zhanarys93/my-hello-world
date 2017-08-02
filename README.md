@@ -9,7 +9,7 @@
 git clone https://github.com/zhanarys93/my-hello-world.git
 ```
 
-Скачайте maven и распакуйте, если его у вас нет. 
+Для установки приложения нужен Maven. Скачайте Maven и распакуйте, если его у вас нет. 
 ```shell
 https://maven.apache.org/download.cgi
 ```
@@ -30,4 +30,4 @@ mvn spring-boot:run
 ```shell
 http://localhost:8080/
 ```
-Видим результат. 
+Ждем загрузки страницы. Видим результат. 
